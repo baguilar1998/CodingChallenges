@@ -22,4 +22,3 @@ class Solution(object):
         list = []
         self.preOrderHelper(list,root)
         return list
-        
